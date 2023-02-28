@@ -13,3 +13,17 @@ git init
 git log --oneline
 
 git log
+
+1. Один
+
+2. Два
+
+- 1
+
+- 2
+
++ 3
+
+* 4
+
+*git diff*
