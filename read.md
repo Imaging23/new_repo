@@ -11,3 +11,5 @@ git init
 *git commit -m "Создали файл"*
 
 git log --oneline
+
+git log
