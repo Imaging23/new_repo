@@ -9,3 +9,5 @@ git init
 **git add read.md**
 
 *git commit -m "Создали файл"*
+
+git log --oneline
