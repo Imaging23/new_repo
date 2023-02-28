@@ -4,8 +4,8 @@
 
 git init
 
-git status
+***git status***
 
-git add read.md
+**git add read.md**
 
-git commit -m
+*git commit -m "Создали файл"*
